@@ -2,7 +2,7 @@
   <img width="180px" alt="plitter" src="https://cdn-icons-png.flaticon.com/128/1959/1959801.png" />
   <h1>Minha Vida Coreana</h1>
   <p>
-    API RESTful de um Blog construído em Laravel, contando com várias funcionalidades importantes, como autenticação, autorização, comentários, likes, emails... etc
+    API REST de um Blog construído em Laravel, contando com várias funcionalidades importantes, como autenticação, autorização, comentários, likes, emails... etc
   </p>
 </div>
 
